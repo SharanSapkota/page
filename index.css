@@ -1,0 +1,23 @@
+.round-img {
+    border-radius:600px;
+    margin-left: 500px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.display-f{
+    display: flex;
+    padding-right: 20px;
+    padding-top: 20px;
+    
+}
+
+.pd-r{
+    padding-right: 10px;
+}
+
+.whole-body{
+    padding: 0px 100px;
+  
+}
+
